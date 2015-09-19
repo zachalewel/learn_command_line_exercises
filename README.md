@@ -1,2 +1,2 @@
-# learn_command_line_exercises
-Command Line
+#### coding is awesome
+I need to change this to something accurate
