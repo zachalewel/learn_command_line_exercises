@@ -1,2 +1,3 @@
-#### coding is awesome
-I need to change this to something accurate
+Learn Command Line excercises 
+By doing the book 
+Learn Command Line the Hard Way
