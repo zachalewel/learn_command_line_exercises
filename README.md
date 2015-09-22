@@ -1,7 +1,7 @@
 Learn Command Line excercises 
 by reading
 Learn Command Line the Hard Way
-
+#BIG Font#
 | Command       | English                               |
 |:-------------:|:-------------------------------------:|
 | pwd           | print working directory               |
