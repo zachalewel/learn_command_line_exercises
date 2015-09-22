@@ -3,7 +3,7 @@ by reading
 Learn Command Line the Hard Way
 
 | Command       | English                               |
-| ------------- | -------------------------------------:|
+| ------------- | ------------------------------------- git |
 | pwd           | print working directory               |
 
 | hostname      | my computer's network name            |
