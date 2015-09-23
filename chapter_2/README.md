@@ -28,8 +28,7 @@ when you run `pwd` that you are under /Users/name**
 **Again I found this out using `pwd`.
 /Users/zachalewel/workspace/davinci_coders_t3_2015/homework/learn_command_line_exercises/chapter_2**
 
-###The other way to find out is in terminal you just simply type pwd, which stands for print###
-###current working directory. Which I will demonstrate for you now about 40 or 50 times.### 
+###The other way to find out is in terminal you just simply type pwd, which stands for print current working directory. Which I will demonstrate for you now about 40 or 50 times.### 
  
 | Command | English                 |
 |:-------:|:-----------------------:|
