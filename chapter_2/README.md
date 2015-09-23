@@ -17,7 +17,7 @@ this would tell me I am in
 
 **I run `pwd` and  find out that I am in the directory,
 /Users/zachalewel/workspace/davinci_coders_t3_2015/homework/learn_command_line_exercises/chapter_2
-which is within our class directory of /davinci_coders_t3_2015/ So yes I am in my class directory
+which is within our class directory of /davinci_coders_t3_2015/ So yes I am in my class directory**
 
 3) Are you in your home directory?
 
