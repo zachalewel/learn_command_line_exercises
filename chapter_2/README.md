@@ -15,13 +15,15 @@ this would tell me I am in
 
 2) Are you in the class directory?
 
-**Yes, I am in the classes directory, workspace/davinci_coders/bu... is
-our class directory.**
+**I run `pwd` and  find out that I am in the directory,
+/Users/zachalewel/workspace/davinci_coders_t3_2015/homework/learn_command_line_exercises/chapter_2
+which is within our class directory of /davinci_coders_t3_2015/ So yes I am in my class directory
 
 3) Are you in your home directory?
 
-**Yes, my class directory is within my home directory. If you notice
-when you run `pwd` that you are under /Users/name**
+**Yes, I run `pwd` to see my working directory and I see that I am within the home directory and even deeper
+/Users/zachalewel/workspace/davinci_coders_t3_2015/homework/learn_command_line_exercises/chapter_2
+the /users/zachalewel is my home then everything after that I have moved into**
 
 4) What directory did you run that command in?
  
