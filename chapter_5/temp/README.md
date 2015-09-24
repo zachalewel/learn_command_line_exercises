@@ -23,4 +23,4 @@ Find another directory with your file browser, then cd to it.
 Remember when you put quotes around a directory with spaces in it? You can do that with any command. For example, if you have a directory I Have Fun, then you can do: cd "I Have Fun"
 
 **Looking for workspace- Open finder go under your home directory scroll around until you find workspace right click, hit get info
-this will tell you the path. Then go into iTerm2 and run `cd ~` to get back to your home directory then cd into workspace by running `cd workspace`
+this will tell you the path. Then go into iTerm2 and run `cd ~` to get back to your home directory then cd into workspace by running `cd workspace`**
