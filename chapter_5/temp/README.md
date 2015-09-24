@@ -2,23 +2,23 @@
 
 **run `mkdir joe`** 
 
-cd back to temp with one command, but not further above that.
+2)cd back to temp with one command, but not further above that.
 
 **run `cd ..`** 
 
-Find out how to cd to your "home directory" with one command.
+3)Find out how to cd to your "home directory" with one command.
 
 **run `cd ~`**
 
-cd to your Documents directory, then find it with your GUI file browser (Finder, Windows Explorer, etc.).
+4)cd to your Documents directory, then find it with your GUI file browser (Finder, Windows Explorer, etc.).
 
 **run `cd ~` wherever you are then run `cd Documents`** Then open finder to find it as a subdirectory under the name of the computer**
 
-cd to your Downloads directory, then find it with your file browser.
+5)cd to your Downloads directory, then find it with your file browser.
 
 **run `cd ~` then `cd Downloads`** then again, open finder the directory will be under the computer name (ex.1 /users/zachalewel/)**
 
-Find another directory with your file browser, then cd to it.
+6)Find another directory with your file browser, then cd to it.
 
 Remember when you put quotes around a directory with spaces in it? You can do that with any command. For example, if you have a directory I Have Fun, then you can do: cd "I Have Fun"
 
