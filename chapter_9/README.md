@@ -6,6 +6,10 @@
 
 **Ok, to do that I would run `touch foo.txt` which is going to create a blank .txt called "foo"**
 
+3) What happens when you touch an existing file?
+
+** I believe it modifies the file updating the timestamp. **
+
 ####Do More Unix: trying to understand the error message
 
 (master) Zach Alewel
