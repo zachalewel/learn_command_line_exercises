@@ -37,7 +37,7 @@ and the date and time. Also it seems like it shows you how many files are contai
 within each subdirectory**
 
 Here is an example
-
+|                                                             |
 |-------------------------------------------------------------|          
 |(master) Zach Alewel                                         |
 |Zachs-MacBook-Pro:chapter_6 $ ls -lR                         |
