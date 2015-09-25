@@ -37,13 +37,13 @@ and the date and time. Also it seems like it shows you how many files are contai
 within each subdirectory**
 
 Here is an example
-|                                                             |
-|-------------------------------------------------------------|          
-|(master) Zach Alewel                                         |
-|Zachs-MacBook-Pro:chapter_6 $ ls -lR                         |
-|total 8                                                      |
-|-rw-r--r--  1 zachalewel  staff  334 Sep 25 12:53 README.md  |
-|drwxr-xr-x  3 zachalewel  staff  102 Sep 25 12:51 tmp        |
+
+
+#####(master) Zach Alewel
+##### Zachs-MacBook-Pro:chapter_6 $ ls -lR
+##### total 8
+##### -rw-r--r--  1 zachalewel  staff  334 Sep 25 12:53 README.md
+##### drwxr-xr-x  3 zachalewel  staff  102 Sep 25 12:51 tmp
  
 ##### ./tmp:
 ##### total 0
