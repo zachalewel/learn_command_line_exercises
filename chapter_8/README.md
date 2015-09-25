@@ -7,3 +7,8 @@
 #####Or maybe if I was working in the directory associated with my origin repo, and I wanted to clone a repo I forked in a
 #####different directory, knowing I would come right back to my origin repo directory I could `pushd` in my origin
 #####then move around to the directory I wanted to clone the fork in clone it and `popd` right back.
+
+### Do More
+
+##### So, in the Do More section he wants us to remove the i/like/icecream and make our own
+##### and move around them. you end up visiting the directories temp, icecream, i and like.
