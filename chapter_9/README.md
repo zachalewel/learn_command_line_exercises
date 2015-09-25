@@ -8,7 +8,7 @@
 
 3) What happens when you touch an existing file?
 
-######I believe it modifies the file updating the timestamp.
+######I believe it modifies the file updating the timestamp, But does not to appear to change the contents of the file.
 
 ####Do More Unix: trying to understand the error message
 
