@@ -1,4 +1,4 @@
-### Explain in your own words what the pushd and popd commands do.
+### 1) Explain in your own words what the pushd and popd commands do.
 
 #####The command `pushd` I would assume is useful, say if I wanted to copy a file into the directory I was in
 #####I could `pushd` to take a snapshot of where I am and then go to the file I want, copy it and run
