@@ -1,9 +1,9 @@
 **1) Can you remove the tmp directory?
    Let's remove the tmp directory.**
    
-   #####Yes to do this I would `cd` to my chapter_7 directory which contains tmp/stuff/frank...
-   #####then I would run `rm -rf tmp` and it would remove all subdirectories and files associated with
-   #####the tmp directory and the tmp directory itself.
+   Yes to do this I would `cd` to my chapter_7 directory which contains tmp/stuff/frank...
+   then I would run `rm -rf tmp` and it would remove all subdirectories and files associated with
+   the tmp directory and the tmp directory itself.
 
 ###Do More
 
