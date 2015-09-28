@@ -9,13 +9,13 @@ and < takes the input from the file on the right to the program on the left
 the > will use the left side command output and write it to the file on the right.
 
 
->> will use the left command output and then append or attach it to the right file
+`>>` will use the left command output and then append or attach it to the right file
 
 
 1) Can you put "This class is fun" into bar.txt?
 
 yes to do that I would run `echo "This class is fun" > bar.txt`
 
-1) Can you put "Oh so much fun" into foo.txt?
+2) Can you put "Oh so much fun" into foo.txt?
 
 
