@@ -29,6 +29,10 @@ production:
   database: db/production.sqlite3
 
 
+
+
+
+
 2) What is in your Gemfile?
 
 I would run `cat Gemfile` 
