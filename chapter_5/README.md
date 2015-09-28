@@ -1,6 +1,6 @@
 1)cd to the joe directory with one command.
 
-**run `mkdir joe`** 
+**sure run `cd ~/workspace/davinci_coders_t3_2015/homework/learn_command_line_exercises/chapter_5/temp/stuff/things/frank/joe/` ** 
 
 2)cd back to temp with one command, but not further above that.
 
@@ -13,10 +13,12 @@
 4)cd to your Documents directory, then find it with your GUI file browser (Finder, Windows Explorer, etc.).
 
 **run `cd ~` wherever you are then run `cd Documents`** Then open finder to find it as a subdirectory under the name of the computer**
+or to do it in one command run `cd ~/Documents/` 
 
 5)cd to your Downloads directory, then find it with your file browser.
 
-**run `cd ~` then `cd Downloads`** then again, open finder the directory will be under the computer name (ex.1 /users/zachalewel/)**
+**run `cd ` then `cd Downloads`** then again, open finder the directory will be under the computer name (ex.1 /users/zachalewel/)**
+**or run `cd ~/Downloads/` to do it in one command**
 
 6)Find another directory with your file browser, then cd to it.
 
