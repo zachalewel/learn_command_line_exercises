@@ -6,4 +6,4 @@ yes to do that I would run
 
 2) Can you make a log directory in your class directory?
 
-Yes to do this I would run `mkdir -p workspace/davinci_coders_t3_2015/log`
+Yes to do this I would run `mkdir ~/workspace/davinci_coders_t3_2015/log`
