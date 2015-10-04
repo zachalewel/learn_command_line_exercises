@@ -18,4 +18,6 @@ yes to do that I would run `echo "This class is fun" > bar.txt`
 
 2) Can you put "Oh so much fun" into foo.txt?
 
+    yes I would run "Oh so much fun" > foo.txt`
+
 
