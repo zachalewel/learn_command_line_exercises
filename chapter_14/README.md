@@ -11,4 +11,4 @@ ok, to do that I would run `rm development.log`
 
 3) Can you remove everything in the slash temp slash foo directory?
 
-yes by running `rm -rf temp` you will delete temp but also everything in temp
+yes by running `rm -rf ~/tmp/foo` you will delete temp but also everything in temp
