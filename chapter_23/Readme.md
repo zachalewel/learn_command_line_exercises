@@ -8,7 +8,6 @@ yes by running `logout`
 but I dont know my password to log back in...
 
 Here's the list for Unix:
-q
 xargs = execute arguments
 sudo = execute a command as another user
 chmod = change file modes or Access Control Lists
