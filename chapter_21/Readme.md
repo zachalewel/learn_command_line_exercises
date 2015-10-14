@@ -12,4 +12,4 @@ HOME=/Users/zachalewel
 
 5) Can you set your environment to have DEBUG set to true?
 
-yes I did that by running `export DEBUG=true` 
+yes I did that by running `export DEBUG=true`
