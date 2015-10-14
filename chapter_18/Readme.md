@@ -10,3 +10,6 @@ Can you print all the lines in text files that have your first and last name in 
 `(master) Zach Alewel
 Zachs-MacBook-Pro:davinci_coders_t3_2015 $ grep Zach Alewel *.txt
 my_name.txt:Zach Alewel`
+
+
+the -i option in grep ignores case.
